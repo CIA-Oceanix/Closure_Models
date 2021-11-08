@@ -10,9 +10,11 @@ Starter code : pyBurger (thanks a lot :) )
 
 https://github.com/jeremygibbs/pyBurgers
 
-numpy 1.19.2
-pytorch 1.10.0
-tqdm 4.51.0
-scipy 1.5.3
-matplotlib 3.2.1
-torchdiffeq 0.1.1
+
+Dependencies
+* numpy 1.19.2
+* pytorch 1.10.0
+* tqdm 4.51.0
+* scipy 1.5.3
+* matplotlib 3.2.1
+* torchdiffeq 0.1.1
